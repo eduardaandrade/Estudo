@@ -1,54 +1,69 @@
-.padding{
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
-
-}
-
-.body{
-    width: 100%;
-    min-height;:100vh;
-    border: 5px red;
-}
-text,{
-    color:red
-    
-}
-.text1{
-    color: red;
-    display: flex;
-    font-size: 14px;
-}
 
 .text2{
-
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    margin-left: -50%;
+    margin-top: -5%;
     font-size: 50px
         
 }
 
 .text3{
-    color:blue
+   
+    max-width: 150px;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: -10px;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 5%;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
     
 }
-.text5,p{
-    align-items: center;
-    color:green
+.text5{
+    color: blueviolet;
+    padding: relative;
+    text-align: center;
+    margin-top: -4%;
+    font-size: 50px
     
+   
 }
 
 .container{
+    color: rgb(0, 0, 0);
     display: flex;
-    justify-content: left;
+    text-align: center;
     align-items: center;
     margin-top: 5%;
     font-family:'Times New Roman', Times, serif
     
-    
 }
 .container1{
-    padding-top: -10%;
-    margin-top: -50%;
-    display: flex;
+    
+    padding-top:-10%;
+    margin-top:-45%;
+    display:flex;
     justify-content:right;
-    align-items: right;
+    align-items:right;
+}
+.botton{
+   
+    text-align: center;
+    margin-top: -6.5%;
+    margin-left: -50%;
+    position:relative;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+.pretoebranco{
+    margin-top: -12%;
+    text-align: center;
 }
