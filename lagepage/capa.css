@@ -1,0 +1,54 @@
+.padding{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+
+.body{
+    width: 100%;
+    min-height;:100vh;
+    border: 5px red;
+}
+text,{
+    color:red
+    
+}
+.text1{
+    color: red;
+    display: flex;
+    font-size: 14px;
+}
+
+.text2{
+
+    font-size: 50px
+        
+}
+
+.text3{
+    color:blue
+    
+}
+.text5,p{
+    align-items: center;
+    color:green
+    
+}
+
+.container{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 5%;
+    font-family:'Times New Roman', Times, serif
+    
+    
+}
+.container1{
+    padding-top: -10%;
+    margin-top: -50%;
+    display: flex;
+    justify-content:right;
+    align-items: right;
+}
